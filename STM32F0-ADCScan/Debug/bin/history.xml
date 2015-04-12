@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.4.1 -mcpu=cortex-m0 -mthumb -g -nostartfiles -Map=STM32F0-ADCScan.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\STM32F0-ADCScan -TC:\CooCox\CoIDE\configuration\ProgramData\STM32F0-ADCScan/arm-gcc-link.ld -g">
+      <target file="STM32F0-ADCScan.elf" lastModified="14caf52ec41">
+         <source file="..\obj\stm32f0xx_rcc.o" lastModified="14caf1a9b19"/>
+         <source file="..\obj\stm32f0xx_adc.o" lastModified="14caf1a9d23"/>
+         <source file="..\obj\main.o" lastModified="14caf52e7ee"/>
+         <source file="..\obj\startup_stm32f0xx.o" lastModified="14caf1a9f8f"/>
+         <source file="..\obj\stm32f0xx_dma.o" lastModified="14caf354c7c"/>
+         <source file="..\obj\system_stm32f0xx_temp.o" lastModified="14caf1aa0d8"/>
+         <source file="..\obj\stm32f0xx_gpio.o" lastModified="14caf1aa23f"/>
+         <source file="..\obj\stm32f0xx_misc.o" lastModified="14caf1aa427"/>
+      </target>
+   </processor>
+</history>
